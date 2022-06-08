@@ -5,4 +5,6 @@ https://exchange.nagios.org/directory/Plugins/Hardware/Storage-Systems/SAN-and-N
 
 https://exchange.nagios.org/directory/Plugins/Hardware/Storage-Systems/Others/Dell-ECS-Capacity-Check-Plugin
 
-added python3 compatibility and a freepsace check
+added python3 compatibility
+
+freepsace check, and icinga range capability for capacyity check
