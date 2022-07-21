@@ -1,5 +1,6 @@
-import re
+#translated from https://github.com/NETWAYS/go-check/blob/master/threshold.go GPL-2.0 license 
 
+import re
 
 class Threshold:
     Inside = False
